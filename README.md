@@ -1,6 +1,6 @@
 # Predicting Music Relistening Behavior Using the ACT-R Framework
 
-This repository contains the code for the paper: `Predicting Music Relistening Behavior Using the ACT-R Framework`. # TODO add preprint link
+This repository contains the code for the paper: `Predicting Music Relistening Behavior Using the ACT-R Framework`. ([Preprint is available here]( https://arxiv.org/abs/2108.02138))
 
 The paper deals with modeling relistening behavior using a cogntive framework of human memory. 
 
@@ -21,8 +21,15 @@ In addition we provide the code for the [data splitting](data_splitter.ipynb) an
 
 ## Cite
 
-Bibtex for [Paper]: # TODO: adpat once published.
+Bibtex for Paper:
 
 ```
-TODO add bibte
+@misc{reiterhaas2021predicting,
+      title={Predicting Music Relistening Behavior Using the ACT-R Framework}, 
+      author={Markus Reiter-Haas and Emilia Parada-Cabaleiro and Markus Schedl and Elham Motamedi and Marko Tkalcic and Elisabeth Lex},
+      year={2021},
+      eprint={2108.02138},
+      archivePrefix={arXiv},
+      primaryClass={cs.IR}
+}
 ```
