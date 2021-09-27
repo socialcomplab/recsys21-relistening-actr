@@ -1,6 +1,6 @@
 # Predicting Music Relistening Behavior Using the ACT-R Framework
 
-This repository contains the code for the paper: `Predicting Music Relistening Behavior Using the ACT-R Framework`. ([Link to paper(https://dl.acm.org/doi/10.1145/3460231.3478846) or [Link to preprint]( https://arxiv.org/abs/2108.02138))
+This repository contains the code for the paper: `Predicting Music Relistening Behavior Using the ACT-R Framework`. ([Link to paper](https://dl.acm.org/doi/10.1145/3460231.3478846) or [Link to preprint]( https://arxiv.org/abs/2108.02138))
 
 The paper deals with modeling relistening behavior using a cogntive framework of human memory. 
 
