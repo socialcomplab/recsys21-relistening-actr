@@ -1,0 +1,7 @@
+title: Predicting Music Relistening Behavior Using the ACT-R Framework
+description: >- # this means to ignore newlines until "baseurl:"
+  RecSys'21
+# Build settings
+remote_theme: socialcomplab/cayman
+github:
+  parent: https://socialcomplab.github.io/
